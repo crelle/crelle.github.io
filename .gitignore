@@ -1,4 +1,6 @@
 Gemfile.lock
+.project
+.classpath
 _site/
 _posts/
 category/
