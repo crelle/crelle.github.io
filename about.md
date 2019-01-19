@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-hello guys��my name is crelle,Graduated in 2013, engaged in Java Software development, I like music, reading and go to the field alone, this is my mailbox.[383362161@qq.com]
+大家好！我叫强,2013年毕业,从事java软件开发,我喜欢音乐,读书和独自去野外玩,这是我的邮箱[383362161@qq.com]
 
-This is my GitHub home page: [github.com/crelle](https://github.com/crelle)
+这是我的github主页: [github.com/crelle](https://github.com/crelle)
