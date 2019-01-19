@@ -16,19 +16,13 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
+    "text": "博客园",
+    "url": "https://home.cnblogs.com/u/794917/",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/crelle",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
